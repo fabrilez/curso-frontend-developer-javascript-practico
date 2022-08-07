@@ -5,9 +5,11 @@ const burguerMenu = document.querySelector('.menu');
 const listBurguerMenu = document.querySelector('.mobile-menu');
 
 const shoppingCard = document.querySelector('.navbar-shopping-cart');
-const productDetail = document.querySelector('.product-detail');
+const productDetail = document.querySelector('#aside-card-shopping');
 
 const cardsContainer = document.querySelector('.cards-container')
+
+const detailsOfProduct = document.querySelector('#product-detail')
 
 const productList = [];
 
